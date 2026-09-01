@@ -1,7 +1,7 @@
 BANK_CHURN_ANALYSIS
 
  Project Title
-Bank  Churn Analysis | SQL, Excel & Power BI & Python
+BANK_CHURN_ANALYSIS | SQL, Excel & Power BI & Python
 
  Github Repository Name
 BANK-CHURN-ANALYSIS**
@@ -237,5 +237,5 @@ The Final Analysis Converts Customer Churn Data Into Actionable Business Insight
 
 Sandhya Dewani**
 
-Project:** Bank Customer Churn Analysis
+Project:** BANK_CHURN_ANALYSIS
 
